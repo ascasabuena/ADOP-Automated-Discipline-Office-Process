@@ -1,0 +1,78 @@
+body {
+  margin: 0; 
+  height: 100%;
+  width: 100% ;
+  font-family:serif;
+  overflow: auto;
+
+  background-color: #000078;
+}
+
+
+h4{
+  text-align: center;
+  color: white;
+}
+
+h6{
+  text-align: center;
+}
+
+h5{
+  color: white;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+
+ol{
+  color: red;
+  text-align: left;
+}
+
+
+.container-fluid {
+  text-align: center;
+}
+
+
+#studin1,#studin2,#studin3,#studin4,#studin5,#staffid,#staffName{
+  margin-top: 15px;
+
+}
+
+
+#main {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#logo {
+  max-width: 50px;
+}
+ p{
+  color: red;
+  text-align: center;
+ }
+
+ form{
+  align-content: center;
+ }
+
+
+ #inputs {
+  margin-left: 50px;
+  margin-right: 50px;
+ }
+
+ /*textarea{
+    margin-top: 10px;
+ }*/
+
+ nav {
+    background-image: url("images/10.png");
+ }
+ 
+ #termdate{
+  margin-top: 5px;
+ }

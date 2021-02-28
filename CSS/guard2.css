@@ -1,0 +1,64 @@
+
+body {
+  margin: 0; 
+  height: 100%;
+  width: 100%; 
+  font-family: 'Poppins', sans-serif;
+  overflow: auto;
+ /* background-color: #999;*/
+}
+
+
+h6{
+  text-align: center;
+}
+
+
+ol{
+  color: black;
+  text-align: left;
+  margin-top: -20px;
+  font-size: 14px;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+
+#main {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#logo {
+  max-width: 50px;
+}
+
+#notice{
+  color: red;
+  font-size: 14px;
+  margin-left: 10px;
+ }
+
+ form{
+  align-content: center;
+ }
+
+ textarea{
+    margin-top: 10px;
+ }
+
+ 
+ #termdate{
+  margin-top: 5px;
+ }
+
+
+
+ 
+
+ 
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
