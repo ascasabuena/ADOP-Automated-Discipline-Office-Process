@@ -116,7 +116,7 @@ if($vio){
             //##########################################################################
 
 
-            $result = itexmo($phone,"New Violation,Visit DO offce","TR-ALIAH561378_MVTEK", "$8i#rcmypc");
+            $result = itexmo($phone,"new violation has been reported you may visit the DO office to appeal","TR-ALIAH561378_MVTEK", "$8i#rcmypc");
             if ($result == ""){
                 echo "iTexMo: No response from server!!!
                 Please check the METHOD used (CURL or CURL-LESS). If you are using CURL then try CURL-LESS and vice versa.  
